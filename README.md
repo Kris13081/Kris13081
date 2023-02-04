@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Kris13081
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Kris13081 (Kristiyan or Kris), my portfolio website here: https://github.com/Kris13081/My-Portfolio-Website , check it out!!!
+- 👀 I’m interested in working with company for any kind of projects
+- 🌱 I’m constantly learning new programming skills
 - 📫 How to reach me kristianstefanov0@gmail.com
-
-<!---
-Kris13081/Kris13081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
