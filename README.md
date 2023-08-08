@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Kris13081 (Kristiyan or Kris), my portfolio website here: https://github.com/Kris13081/My-Portfolio-Website , check it out!!!
-- 👀 I’m interested in working with company for any kind of projects
-- 🌱 I’m constantly learning new programming skills
 - 📫 How to reach me kristianstefanov0@gmail.com
