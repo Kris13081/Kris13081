@@ -11,6 +11,6 @@ About Me:
 Here is my personal project:
 
  ### FitWizz
- - https://fitwizz.up.railway.app/
+ - https://fitwizz.up.railway.app/api/home
 
 
